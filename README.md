@@ -17,7 +17,6 @@ Click this button to create a new Github repo, new Netlify project and deploy th
 ## What's in the stack
 
 - [Netlify](https://netlify.com/) deployment to the [Edge](https://www.netlify.com/products/edge) + deploy previews and CI/CD
-- [Supabase](https://supabase.com/) database and authentication
 - [Tailwind](https://tailwindcss.com/) for styling
 - [Cypress](https://cypress.io) end-to-end testing
 - [Prettier](https://prettier.io) code formatting
